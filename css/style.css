@@ -18,7 +18,7 @@
 
 
    border-bottom: 4px solid #FDB61F;
-;
+
   
 
 
@@ -110,6 +110,7 @@
   color: white;
 }
 .cardapio-direita h3{
+  font-size: 22px;
   font-family: 'Roboto', sans-serif;
   
 }
@@ -137,7 +138,7 @@
 
 .quadrado-lache{
 
-  width:260px;
+  width:250px;
   height: 300px;
   background:black;
 }
@@ -156,6 +157,7 @@
 
 }
 .sucos h3{
+  font-size: 22px;
   font-family: 'Roboto', sans-serif;
   color:white;
 }
@@ -164,6 +166,23 @@
   font-family: 'Roboto', sans-serif;
  color:black;
 }
+
+
+.colorida{
+
+
+  
+}
+.cardapio-direita h4{
+  font-family: 'Roboto', sans-serif;
+  color: #FDB61F;
+
+}
+.img-milk{
+
+
+}
+
 
 
 
