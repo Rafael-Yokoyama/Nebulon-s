@@ -63,6 +63,9 @@ div ul li a:hover {
 #foto:hover #comentario {
   opacity: 1;
 }
+#home h2{
+  color: #cccc;
+}
 
 .citação-home {
   color: #fdb61f;
@@ -82,10 +85,19 @@ div ul li a:hover {
   font-size: 22px;
   font-family: "Roboto", sans-serif;
 }
+
+.cardapio-direita h4 {
+  font-family: "Roboto", sans-serif;
+  color: #fdb61f;
+}
+
 .cardapio-direita p {
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   color: #fdb61f;
+}
+.cardapio-direita{
+  color:#cccc;
 }
 
 .cardapio-esquerda {
@@ -96,6 +108,7 @@ div ul li a:hover {
   color: white;
 }
 .cardapio-esquerda h1 {
+  color:#cccc;
   padding-right: 35px;
 }
 
@@ -127,26 +140,128 @@ div ul li a:hover {
   color: black;
 }
 
-.cardapio-direita h4 {
-  font-family: "Roboto", sans-serif;
-  color: #fdb61f;
-}
+
 
 #primeirolanche h3 {
   font-family: "Roboto", sans-serif;
 }
-
-#primeirolanche span,
-#segundolanche span,
-#terceirolanche span {
-  color: red;
-}
-
 #primeirolanche {
   background: black;
+  
 }
 
 
 #terceirolanche {
   background: #fdb61f;
 }
+
+
+#primeirolanche span,
+#terceirolanche span {
+  color:white;
+}
+#segundolanche span{
+ 
+  color:black;
+}
+
+#primeirolanche h1 {
+  color:#fdb61f;
+}
+#segundolanche h1 {
+  color:black;
+ 
+}
+#terceirolanche h1 {
+  color:black;
+}
+
+#delivery{
+  color:white;
+  background:black;
+
+}
+
+
+.pao-top{
+  border-radius: 200px 200px 0 0 ;
+  -webkit-border-radius: 200px 200px 0 0 ;
+  -moz-border-radius: 200px 200px 0 0 ;
+  width: 300px;
+  height: 80px;
+  background:#F29C1F;
+ 
+
+}
+
+
+.salada{
+  background:green;
+  height: 20px;
+  width: 270px;
+  
+
+}
+
+@keyframes tomate {
+  from{
+    background: black;
+    color:black;
+  }
+ to{
+  background:red;
+
+ }
+}
+
+  
+.tomate{
+  animation: tomate 4s 1s infinite;
+  -webkit-animation: tomate 4s 1s infinite;
+  -moz-animation: tomate 4s 1s infinite;
+  -o-animation: tomate 4s 1s infinite;
+   border-radius:50px;
+  -webkit-border-radius:50px;
+  -moz-border-radius:50px;
+ 
+  margin-top:-20px;
+  width: 270px;
+  height: 25px;
+  background:red;
+  
+}
+.hamburguer{
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  width: 280px;
+  height: 30px;
+  background:#802F34;
+
+}
+
+.pao-bottom {
+   border-radius: 0 0  200px 200px;
+  -webkit-border-radius: 0 0  200px 200px;
+  -moz-border-radius: 0 0  200px 200px;
+  width: 300px;
+  height: 40px;
+  background:#F29C1F;
+
+}
+.prato{
+ 
+ 
+  border: 0.2px solid;
+  box-shadow: 5px 10px 20px #cccc;
+  -webkit-box-shadow: 5px 10px 20px #cccc;
+  -moz-box-shadow: 5px 10px 20px #cccc;
+}
+
+
+.centered {
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+
