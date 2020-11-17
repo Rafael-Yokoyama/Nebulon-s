@@ -267,9 +267,18 @@ div ul li a:hover {
 
 #novidades{
   color:black;
-  
   background:#F29C1F;
+  margin-bottom:-20px;
 
+}
+
+#sobre{
+  color:white;
+  background:black;
+}
+
+.funcionamento-sobre {
+  color:#f29c1f;
 }
 
 
