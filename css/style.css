@@ -278,7 +278,31 @@ div ul li a:hover {
 }
 
 .funcionamento-sobre {
-  color:#f29c1f;
+  color:#ffc107;
+}
+footer{
+  font-weight: bold;
+  background:white;
+  
+}
+.itens{
+  margin-top: -10px;
+
+}
+.atribuicao{  font-size:10px;
+
+}
+.atribuicao a{
+ 
+  color:#ffc107;
+}
+.desenvolvedor a {
+  color:#F29C1F;
+  
+}
+.desenvolvedor a:hover{
+  color:#F29C1F;
+  text-decoration: none;
 }
 
 
