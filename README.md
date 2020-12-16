@@ -15,7 +15,7 @@ O projeto tem como objetivo monstrar os principais foos que a hamburgueria ofere
 
 ## 🎨 Layout
 
-![](img\gif.foto.gif)
+![](https://github.com/Rafael-Yokoyama/Nebulon-s/blob/main/img/gif.foto.gif)
 
 <hr>
 
